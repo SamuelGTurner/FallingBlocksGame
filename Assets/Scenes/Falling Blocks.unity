@@ -376,7 +376,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fallingBlockPrefab: {fileID: 2087102043804977559, guid: a01754356987afc4fb43625e2372bb71, type: 3}
-  secondsBetweenSpawnsMinMax: {x: 0.3, y: 0.6}
+  secondsBetweenSpawnsMinMax: {x: 0.3, y: 1.5}
   nextSpawnTime: 0
   spawnSizeMinMax: {x: 0.5, y: 1.5}
   spawnAngleMax: 15
