@@ -10,6 +10,6 @@ Dodge the fallling blocks for as long as possible
 
 ### Controls
 
- - **W, A** (or d-pad) to move.
+ - **A, D** (or d-pad) to move.
  - **Spacebar** to reset after gameover
 
